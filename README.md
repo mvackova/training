@@ -1,2 +1,2 @@
-# training
-OS GitHub training
+# Github - training
+OS GitHub training module
